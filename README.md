@@ -9,7 +9,7 @@
 
 <ul>
   <li>It will give of a warning if the person is getting to close to the blade</li>
-  <li>If person ignores the first warning the motor will be stoped and a break pad is launched to bring the blade a complete stop</li>
+  <li>If person ignores the first warning the motor will be stoped and a break pad is launched to bring the blade to a complete stop</li>
 </ul>
 
 <hr>

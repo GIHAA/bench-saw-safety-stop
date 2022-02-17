@@ -1,7 +1,7 @@
 # bench-saw_safety-stop
-
+<div align="center">
 <img height = 300 src = "image.png">
-<img height = 300 src = "image2.jpg">
+</div>
 
 <hr>
 
@@ -12,3 +12,6 @@ safety-stop, This is a bench safety system design to prevent accidents. The syst
   <li>If person ignores the first warning the motor will be stoped and a break pad is launched to bring the blade a complete stop</li>
 </ul>
 
+<hr>
+
+<a href= "#" >Run simulation</a>

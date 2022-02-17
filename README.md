@@ -1,4 +1,4 @@
-# bench-saw_safety-stop
+# Bench-saw_safety-stop
 <div align="center">
 <img height = 300 src = "image.png">
 </div>

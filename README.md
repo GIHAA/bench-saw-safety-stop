@@ -14,4 +14,11 @@ safety-stop, This is a bench safety system design to prevent accidents. The syst
 
 <hr>
 
+<b><ul>How to run simulation</ul></b>
+<ul>
+   <li>login to your account</li>
+   <li>Click run simulation button</li>
+   <li>Click on ultrasonic sensor and change the distance of the it as<a href = "image3.JPG"> image</a> 
+   <li><b>Do not change the design or the code otherwise the simulation will fail</b></li>
+ </ul>
 <a href= "#" >Run simulation</a>

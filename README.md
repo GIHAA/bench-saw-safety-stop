@@ -22,3 +22,5 @@
    <li><b>Do not change the design or the code otherwise the simulation will fail</b></li>
  </ul>
 <a href= "https://www.tinkercad.com/things/0NPUeo6O6DL-copy-of-distance-sensor/editel?sharecode=_XHKV496FNcZSY7BAnVr2iPV2yq7PCCt7-F5Fnh6wIQ" >Run simulation</a>
+
+<img height = 300 src = "avatar.png">

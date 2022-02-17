@@ -1,6 +1,7 @@
 # bench-saw_safety-stop
 
-<img height = 400 src = "image.png">
+<img height = 300 src = "image.png">
+<img height = 300 src = "image2.jpg">
 
 <hr>
 

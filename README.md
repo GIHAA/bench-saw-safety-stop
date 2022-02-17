@@ -5,7 +5,7 @@
 
 <hr>
 
-<b>Safety-Stop, This is a bench safety system design to prevent accidents. The system opperates on 2 levels</b>
+<b><ul>Safety-Stop, This is a bench safety system design to prevent accidents. The system opperates on 2 levels</ul></b>
 
 <ul>
   <li>It will give of a warning if the person is getting to close to the blade</li>

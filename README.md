@@ -5,7 +5,7 @@
 
 <hr>
 
-safety-stop, This is a bench safety system design to prevent accidents. The system opperates on 2 levels
+<b>Safety-Stop, This is a bench safety system design to prevent accidents. The system opperates on 2 levels</b>
 
 <ul>
   <li>It will give of a warning if the person is getting to close to the blade</li>
@@ -18,7 +18,7 @@ safety-stop, This is a bench safety system design to prevent accidents. The syst
 <ul>
    <li>login to your account</li>
    <li>Click run simulation button</li>
-   <li>Click on ultrasonic sensor and change the distance of the it as<a href = "image3.JPG"> image</a> 
+   <li>Click on ultrasonic sensor and change the distance value of it as<a href = "image3.JPG"> image</a> 
    <li><b>Do not change the design or the code otherwise the simulation will fail</b></li>
  </ul>
 <a href= "#" >Run simulation</a>
